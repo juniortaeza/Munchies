@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>867788996901-rlbp620dedcrq3rr9kekog11u4tnkl62.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.867788996901-rlbp620dedcrq3rr9kekog11u4tnkl62</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXaX74_Lv67MR6-Jpwzzqw0olHXOw-YFY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>867788996901</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.usc.munchies</string>
+	<key>PROJECT_ID</key>
+	<string>munchies-66a0a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>munchies-66a0a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:867788996901:ios:a88f5989abf33e36505acc</string>
+</dict>
+</plist>
